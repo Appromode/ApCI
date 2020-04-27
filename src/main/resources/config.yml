@@ -1,0 +1,7 @@
+prefix: "§7[§4ApCI§7]"
+servername: "§7[§dAtlas§5MC§7]"
+syntaxerror: "§4Syntax error! Try typing /apci help for help!"
+nopermission: "§4You do not have permission to execute this command!"
+playernotfound: "§4This player is either offline or does not exist!"
+error: "§4There seems to have been an error!"
+warzoneworldname: "Warzonetwo"
